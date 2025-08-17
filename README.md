@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey, I'm Nitish Kumar Upadhyay 👨‍💻</h1>
 <p align="center">
-  <em>Backend Developer | Magento 2 Certified | eCommerce Problem Solver | System Thinker | Debugging Enthusiast</em>
+  <em>**Backend Developer • Magento 2 Certified • eCommerce Problem Solver • System Thinker • Debugging Enthusiast**</em>
 </p>
 
 <p align="center">
