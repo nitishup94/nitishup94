@@ -24,9 +24,12 @@ var nitish = {
     'GraphQL',
     'REST APIs',
     'Delivery API Integrations',
-    'Shipping & Payment Gateways'
+    'Shipping & Payment Gateways',
+    'RAG Pipelines',
+    'AI Agents & Chatbots',
+    'Vector Storage (Elasticsearch/OpenSearch/ChromaDb)',
   ],
-  tools: ['JavaScript', 'PHP', 'MySQL', 'Redis', 'Docker', 'Kafka'],
+  tools: ['JavaScript', 'PHP', 'MySQL', 'Redis', 'Docker', 'Kafka', 'RabbitMQ', 'Elasticsearch', 'OpenSearch', 'LLMs'],
   learning: ['PostgreSQL', 'MongoDB', 'Advanced system architecture'],
   hobbies: ['Exploring logs', 'Optimizing queries', 'Designing scalable eCommerce flows']
 }
@@ -53,9 +56,8 @@ var nitish = {
 |------------------|--------------------------|-----------------------------------|--------------------------------|
 | **PHP 🐘** | MySQL 🗄️, Redis 🚀       | Docker 🐳, Kafka ⚡, Postman 📬        | Clean Code, Modular Refactoring |
 | **JavaScript (Vue/Node) ⚛️** | MongoDB 🍃 (learning) | GitHub Actions 🤖, Git 🔧, REST/GraphQL APIs | CI/CD 🚀, API-First Design       |
-| **Python 🐍**     | PostgreSQL (learning)    | Sentry 🪲 | Logging & Monitoring 🕵️, Test Suites 🧪 |
 | **C++ ⚡**        | —                        | System-level tools 🛠              | Code Reviews 🔍, Performance Optimization ⚡ |
-
+| **AI & Search 🤖** | Elasticsearch 🔍, OpenSearch 🔍, Vector DBs | LLMs, Embedding Models, RAG Pipelines | Agent Design, Semantic Search, Chatbot Architecture |
 
 ---
 
