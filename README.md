@@ -54,7 +54,7 @@ var nitish = {
 ## 🛠 My Toolbox
 | Languages        | Databases                | Tools & Infra                     | Dev Practices                  |
 |------------------|--------------------------|-----------------------------------|--------------------------------|
-| **PHP 🐘** | MySQL 🗄️, Redis 🚀       | Docker 🐳, Kafka ⚡, Postman 📬        | Clean Code, Modular Refactoring |
+| **PHP 🐘** | MySQL 🗄️, Redis 🚀       | Docker 🐳, Postman 📬        | Clean Code, Modular Refactoring |
 | **JavaScript (Vue/Node) ⚛️** | MongoDB 🍃 (learning) | GitHub Actions 🤖, Git 🔧, REST/GraphQL APIs | CI/CD 🚀, API-First Design       |
 | **C++ ⚡**        | —                        | System-level tools 🛠              | Code Reviews 🔍, Performance Optimization ⚡ |
 | **AI & Search 🤖** | Elasticsearch 🔍, OpenSearch 🔍, Vector DBs | LLMs, Embedding Models, RAG Pipelines | Agent Design, Semantic Search, Chatbot Architecture |
