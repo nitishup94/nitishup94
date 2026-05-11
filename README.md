@@ -29,7 +29,7 @@ var nitish = {
     'AI Agents & Chatbots',
     'Vector Storage (Elasticsearch/OpenSearch/ChromaDb)',
   ],
-  tools: ['JavaScript', 'PHP', 'MySQL', 'Redis', 'Docker', 'Kafka', 'RabbitMQ', 'Elasticsearch', 'OpenSearch', 'LLMs'],
+  tools: ['JavaScript', 'PHP', 'MySQL', 'Redis', 'Docker', 'RabbitMQ', 'Elasticsearch', 'OpenSearch', 'LLMs'],
   learning: ['PostgreSQL', 'MongoDB', 'Advanced system architecture'],
   hobbies: ['Exploring logs', 'Optimizing queries', 'Designing scalable eCommerce flows']
 }
